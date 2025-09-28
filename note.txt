@@ -1,0 +1,9 @@
+Username (leave blank to use 'user'): nay
+Email address: nay@gmail.com
+Password: 123
+
+
+python manage.py runserver
+
+
+Scripts\activate.bat
